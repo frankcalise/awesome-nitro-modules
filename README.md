@@ -13,7 +13,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-nitro-sqlite](https://github.com/margelo/react-native-nitro-sqlite)
 - [react-native-unistyles](https://github.com/jpudysz/react-native-unistyles)
 - [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto)
-- [react-native-nitro-in-app-browse](https://github.com/patrickkabwe/react-native-nitro-in-app-browser)
+- [react-native-nitro-in-app-browser](https://github.com/patrickkabwe/react-native-nitro-in-app-browser)
 - [react-native-nitro-bip39](https://github.com/ronickg/react-native-nitro-bip39)
 - [react-native-nitro-totp](https://github.com/4cc3ssX/react-native-nitro-totp)
 - [react-native-turbo-scrypt](https://github.com/litecoin-foundation/react-native-turbo-scrypt)
