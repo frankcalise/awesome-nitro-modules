@@ -22,6 +22,8 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [@corasan/image-compressor](https://github.com/corasan/image-compressor)
 - [react-native-nitro-event-kit](https://github.com/VladyslavMartynov10/react-native-nitro-event-kit)
 - [react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager)
+- [react-native-nitro-fs](https://github.com/patrickkabwe/react-native-nitro-fs)
+- [react-native-nitro-google-sso](https://github.com/patrickkabwe/react-native-nitro-google-sso)
 
 ## Work In Progress
 
