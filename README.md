@@ -21,6 +21,8 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-turbo-scrypt](https://github.com/litecoin-foundation/react-native-turbo-scrypt)
 - [@corasan/image-compressor](https://github.com/corasan/image-compressor)
 - [react-native-nitro-event-kit](https://github.com/VladyslavMartynov10/react-native-nitro-event-kit)
+- [react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager)
+- [react-native-nitro-screen-recorder](https://github.com/ChristopherGabba/react-native-nitro-screen-recorder)
 
 ## Work In Progress
 
