@@ -25,6 +25,8 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-nitro-fs](https://github.com/patrickkabwe/react-native-nitro-fs)
 - [react-native-nitro-google-sso](https://github.com/patrickkabwe/react-native-nitro-google-sso)
 - [react-native-video](https://github.com/TheWidlarzGroup/react-native-video/tree/v7)
+- [react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager)
+- [react-native-nitro-screen-recorder](https://github.com/ChristopherGabba/react-native-nitro-screen-recorder)
 
 ## Work In Progress
 
