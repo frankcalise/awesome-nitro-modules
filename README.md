@@ -19,6 +19,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-nitro-in-app-browser](https://github.com/patrickkabwe/react-native-nitro-in-app-browser)
 - [react-native-nitro-bip39](https://github.com/ronickg/react-native-nitro-bip39)
 - [react-native-nitro-totp](https://github.com/4cc3ssX/react-native-nitro-totp)
+- [react-native-nitro-tor](https://github.com/niteshbalusu11/react-native-nitro-tor)
 - [react-native-turbo-scrypt](https://github.com/litecoin-foundation/react-native-turbo-scrypt)
 - [@corasan/image-compressor](https://github.com/corasan/image-compressor)
 - [react-native-nitro-event-kit](https://github.com/VladyslavMartynov10/react-native-nitro-event-kit)
