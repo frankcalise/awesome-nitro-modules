@@ -12,6 +12,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 
 ## Published
 
+- [react-native-nitro-ark](https://github.com/BlixtWallet/react-native-nitro-ark)
 - [react-native-nitro-sqlite](https://github.com/margelo/react-native-nitro-sqlite)
 - [react-native-unistyles](https://github.com/jpudysz/react-native-unistyles)
 - [react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto)
