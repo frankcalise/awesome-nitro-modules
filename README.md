@@ -29,6 +29,9 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-video](https://github.com/TheWidlarzGroup/react-native-video/tree/v7)
 - [react-native-nitro-audio-manager](https://github.com/ChristopherGabba/react-native-nitro-audio-manager)
 - [react-native-nitro-screen-recorder](https://github.com/ChristopherGabba/react-native-nitro-screen-recorder)
+- [react-native-sportscar](https://github.com/riteshshukla04/react-native-sports-car)
+- [react-native-nitro-image](https://github.com/mrousavy/react-native-nitro-image)
+
 
 ## Work In Progress
 
