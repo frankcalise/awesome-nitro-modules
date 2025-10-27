@@ -9,6 +9,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [Margelo Discord](https://discord.com/invite/6CSHz2qAvA) - Discord with official `#nitro-🔥` channel
 - [Getting started with Nitro](https://www.renanmav.com/blog/getting-started-with-nitro) - Blog post by [@renanmav](https://github.com/renanmav)
 - [Create Nitro Module CLI](https://github.com/patrickkabwe/create-nitro-module) - A CLI tool that simplifies creating React Native modules powered by Nitro Modules.
+- [React Native Directory](https://reactnative.directory/?nitroModule=true) - A list of libraries in the Directory marked as powered by Nitro Modules.
 
 ## Published
 
