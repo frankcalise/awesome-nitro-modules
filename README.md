@@ -32,6 +32,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-sportscar](https://github.com/riteshshukla04/react-native-sports-car)
 - [react-native-nitro-image](https://github.com/mrousavy/react-native-nitro-image)
 - [react-native-nitro-udp](https://github.com/Daavidaviid/react-native-nitro-udp)
+- [react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer)
 
 ## Work In Progress
 
