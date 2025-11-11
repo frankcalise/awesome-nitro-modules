@@ -35,6 +35,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-nitro-image](https://github.com/mrousavy/react-native-nitro-image)
 - [react-native-nitro-udp](https://github.com/Daavidaviid/react-native-nitro-udp)
 - [react-native-nitro-geolocation](https://github.com/jingjing2222/react-native-nitro-geolocation)
+- [react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer)
 
 ## Work In Progress
 
