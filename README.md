@@ -37,6 +37,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-nitro-geolocation](https://github.com/jingjing2222/react-native-nitro-geolocation)
 - [react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer)
 - [react-native-torch-nitro](https://github.com/irekrog/react-native-torch-nitro)
+- [react-native-ble-nitro](https://github.com/zykeco/react-native-ble-nitro)
 
 ## Work In Progress
 
