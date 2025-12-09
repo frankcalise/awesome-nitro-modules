@@ -38,6 +38,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer)
 - [react-native-torch-nitro](https://github.com/irekrog/react-native-torch-nitro)
 - [react-native-ble-nitro](https://github.com/zykeco/react-native-ble-nitro)
+- [react-native-nitro-gradients](https://github.com/Swami-Laxmikant/react-native-nitro-gradients)
 
 ## Work In Progress
 
