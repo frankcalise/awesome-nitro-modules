@@ -39,6 +39,8 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-torch-nitro](https://github.com/irekrog/react-native-torch-nitro)
 - [react-native-ble-nitro](https://github.com/zykeco/react-native-ble-nitro)
 - [react-native-nitro-gradients](https://github.com/Swami-Laxmikant/react-native-nitro-gradients)
+- [react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies)
+- [react-native-nitro-image-playground](https://github.com/plahteenlahti/react-native-nitro-image-playground)
 
 ## Work In Progress
 
