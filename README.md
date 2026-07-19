@@ -33,12 +33,16 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-nitro-screen-recorder](https://github.com/ChristopherGabba/react-native-nitro-screen-recorder)
 - [react-native-sportscar](https://github.com/riteshshukla04/react-native-sports-car)
 - [react-native-nitro-image](https://github.com/mrousavy/react-native-nitro-image)
+- [react-native-nitro-markdown](https://github.com/JoaoPauloCMarra/react-native-nitro-markdown/)
 - [react-native-nitro-udp](https://github.com/Daavidaviid/react-native-nitro-udp)
 - [react-native-nitro-geolocation](https://github.com/jingjing2222/react-native-nitro-geolocation)
 - [react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer)
 - [react-native-torch-nitro](https://github.com/irekrog/react-native-torch-nitro)
 - [react-native-ble-nitro](https://github.com/zykeco/react-native-ble-nitro)
 - [react-native-dfu-nitro](https://github.com/zykeco/react-native-dfu-nitro)
+- [@bernagl/react-native-date](https://bbernag.github.io/react-native-date)
+- [react-native-nitro-gradients](https://github.com/Swami-Laxmikant/react-native-nitro-gradients)
+- [react-native-nitro-cookies](https://github.com/l2hyunwoo/react-native-nitro-cookies)
 - [react-native-nitro-image-playground](https://github.com/plahteenlahti/react-native-nitro-image-playground)
 
 ## Work In Progress
