@@ -33,6 +33,7 @@ A collection of published or works in progress Nitro Modules and any additional 
 - [react-native-nitro-screen-recorder](https://github.com/ChristopherGabba/react-native-nitro-screen-recorder)
 - [react-native-sportscar](https://github.com/riteshshukla04/react-native-sports-car)
 - [react-native-nitro-image](https://github.com/mrousavy/react-native-nitro-image)
+- [react-native-nitro-markdown](https://github.com/JoaoPauloCMarra/react-native-nitro-markdown/)
 - [react-native-nitro-udp](https://github.com/Daavidaviid/react-native-nitro-udp)
 - [react-native-nitro-geolocation](https://github.com/jingjing2222/react-native-nitro-geolocation)
 - [react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer)
